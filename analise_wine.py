@@ -2,6 +2,7 @@
 # # Checkpoint 5 — Machine Learning & Modelling / Statistical Computing with R & Python
 #
 # **Aluno:** Gustavo Lino — **RM:** 574157
+#**Aluno:** Lucas Lopes Arias — **RM:** 570875
 # **Curso:** Tecnólogo em Inteligência Artificial — 2º Semestre — FIAP
 #
 # **Dataset:** Wine Dataset for Clustering
