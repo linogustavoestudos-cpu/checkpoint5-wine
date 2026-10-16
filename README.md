@@ -33,7 +33,7 @@ Análise exploratória das variáveis `Alcohol` e `Malic_Acid`:
 - Análise probabilística (teste de normalidade e cálculos de probabilidade)
 
 ### Parte 2 — Machine Learning & Modelling
-Notebook - p5_MachineLearning_GustavoLino.i
+Notebook - cp5_MachineLearning_GustavoLino.ipynb
 Clusterização dos vinhos com **K-means**:
 - Pré-processamento e padronização dos dados
 - Ajuste do modelo K-means
