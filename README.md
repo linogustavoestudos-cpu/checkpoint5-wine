@@ -26,12 +26,14 @@ cultivares distintas de uva).
 ## Estrutura do trabalho
 
 ### Parte 1 — Statistical Computing with R and Python
+Notebbok - Checkpoint5_GustavoLino_RM574157.
 Análise exploratória das variáveis `Alcohol` e `Malic_Acid`:
 - Tabela de distribuição de frequências e gráficos (histograma/boxplot)
 - Medidas de tendência central, dispersão e separatrizes
 - Análise probabilística (teste de normalidade e cálculos de probabilidade)
 
 ### Parte 2 — Machine Learning & Modelling
+Notebook - p5_MachineLearning_GustavoLino.i
 Clusterização dos vinhos com **K-means**:
 - Pré-processamento e padronização dos dados
 - Ajuste do modelo K-means
