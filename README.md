@@ -26,7 +26,7 @@ cultivares distintas de uva).
 ## Estrutura do trabalho
 
 ### Parte 1 — Statistical Computing with R and Python
-Notebbok - Checkpoint5_GustavoLino_RM574157.
+Notebbok - Checkpoint5_GustavoLino_RM574157.ipynb
 Análise exploratória das variáveis `Alcohol` e `Malic_Acid`:
 - Tabela de distribuição de frequências e gráficos (histograma/boxplot)
 - Medidas de tendência central, dispersão e separatrizes
